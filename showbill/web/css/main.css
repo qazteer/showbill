@@ -1,0 +1,17 @@
+html,
+body {
+    height: 100%;
+}
+
+.event_img{
+    width:700px;
+}
+
+.img_pale{
+    width:500px;
+}
+
+.img_pale_inside{
+	width:900px;
+	height:350px;
+}
